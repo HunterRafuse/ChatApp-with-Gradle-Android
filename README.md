@@ -28,7 +28,8 @@ react-native init ChatApp
 
 ```
 When you initiate the ``init`` command it will automatically create a directory called 'ChatApp' within, for example, Desktop and download your dependencies. Like so:
-<img src="img/androidcapture3.JPG" />
+
+<img src="img/cmdcapture.JPG" />
 
 
 Let's go ahead and give it a minute as it does take time to install all the neccessary files for this project.
